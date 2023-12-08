@@ -39,15 +39,6 @@ Here are some ideas to get you started:
     OnePiece is Real!!!!
                        -Edward Newgate
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31dycjbhw4sxeaynhfqdvym5xfvm)
-
----
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=shreytrivedi002&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
 ### Contact with me 📝
 
 [<img align="left" alt="www.edufusion.in" height="30px" src="https://cdn-icons-png.flaticon.com/512/921/921490.png" />][website]
@@ -85,17 +76,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shreytrivedi002&theme=dark&border_radius=8.2)](https://git.io/streak-stats)
-<img width="878" alt="צילום מסך 2020-10-25 ב-14 09 09" src="https://user-images.githubusercontent.com/38000606/97106909-02710480-16cd-11eb-9ad6-f5d64e03eb5a.png">
-
-
-<!-- [<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1RCSfB7ArqrkCeIv0vraGW?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> ] -->
-
-
-[website]: https://edufusion.in
-[linkedin]: [https://www.linkedin.com/in/shrey-trivedi-4a3270178/](https://www.linkedin.com/in/shreyash-dubey-129749173/)
-<!-- [Spotify]: https://open.spotify.com/playlist/1RCSfB7ArqrkCeIv0vraGW?si=97c6b3b1e6914ae0 -->
-[Spotify]: https://open.spotify.com/user/31dycjbhw4sxeaynhfqdvym5xfvm
+[linkedin]: https://www.linkedin.com/in/shrey-trivedi-4a3270178/](https://www.linkedin.com/in/shreyash-dubey-129749173/
 
 
 
