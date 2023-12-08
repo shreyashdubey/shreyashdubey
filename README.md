@@ -1,4 +1,4 @@
-### I'm [Shreyash Dubey][website] Software Engineer | Exploring something new..👋
+### I'm Shreyash Dubey Software Engineer | Exploring something new..👋
 
 <!--
 **shreytrivedi002/shreytrivedi002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
