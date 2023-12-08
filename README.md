@@ -1,4 +1,4 @@
-### I'm [Shrey Trivedi][website] Software Engineer | Exploring something new..👋
+### I'm [Shreyash Dubey][website] Software Engineer | Exploring something new..👋
 
 <!--
 **shreytrivedi002/shreytrivedi002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 
 
 [website]: https://edufusion.in
-[linkedin]: https://www.linkedin.com/in/shrey-trivedi-4a3270178/
+[linkedin]: [https://www.linkedin.com/in/shrey-trivedi-4a3270178/](https://www.linkedin.com/in/shreyash-dubey-129749173/)
 <!-- [Spotify]: https://open.spotify.com/playlist/1RCSfB7ArqrkCeIv0vraGW?si=97c6b3b1e6914ae0 -->
 [Spotify]: https://open.spotify.com/user/31dycjbhw4sxeaynhfqdvym5xfvm
 
